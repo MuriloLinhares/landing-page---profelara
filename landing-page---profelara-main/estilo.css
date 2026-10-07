@@ -165,7 +165,7 @@ summary {
 
 details p {
     margin-top: 12px;
-    color: var(--roxo);
+    color: rgb(216, 178, 8); 
 }
 
 /* ---------- FOOTER + NEWSLETTER ---------- */
